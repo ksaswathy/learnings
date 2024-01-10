@@ -1,5 +1,5 @@
 a=100
-b=5
+b=500
 c=a+b
 print("the ans is :",)
 
